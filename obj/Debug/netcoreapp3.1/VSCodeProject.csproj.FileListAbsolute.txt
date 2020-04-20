@@ -1,0 +1,4 @@
+D:\wp\NetProject\VSCodeProject\obj\Debug\netcoreapp3.1\VSCodeProject.csprojAssemblyReference.cache
+D:\wp\NetProject\VSCodeProject\obj\Debug\netcoreapp3.1\VSCodeProject.csproj.CoreCompileInputs.cache
+D:\wp\NetProject\VSCodeProject\obj\Debug\netcoreapp3.1\VSCodeProject.AssemblyInfoInputs.cache
+D:\wp\NetProject\VSCodeProject\obj\Debug\netcoreapp3.1\VSCodeProject.AssemblyInfo.cs
